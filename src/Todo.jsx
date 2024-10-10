@@ -1,4 +1,4 @@
-import TodoBody from "../components/TodoBody";
+import TodoBody from "./components/TodoBody";
 
 const Todo = () => {
   return (
